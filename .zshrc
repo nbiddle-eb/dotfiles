@@ -89,4 +89,4 @@ alias gam="python /Volumes/API-GAM/GAM-4.22/src/gam.py"
 alias spanning="python /Volumes/API-Spanning/SpanningAPI_CLI.py"
 alias mnt="hdiutil attach"
 alias crowd="python /Volumes/API-Crowd/CrowdAPI_CLI.py"
-alias config='/usr/bin/git --git-dir=/Users/nbiddle/.cfg/ --work-tree=/Users/nbiddle'
+alias config="/usr/bin/git --git-dir=/Users/nbiddle/.cfg/ --work-tree=/Users/nbiddle"
